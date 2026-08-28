@@ -50,6 +50,6 @@ const styles = StyleSheet.create({
   container: {
     margin: 10,
     gap: 10,
-    justifyContent: "center",
+    justifyContent: "flex-end",
   }
 });
