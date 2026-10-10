@@ -17,6 +17,14 @@ export default function Index() {
         <Text>Ir para Exemplo</Text>
       </Link>
 
+      <Link href={'/cursos'}>
+        <Text>Ir para Cursos</Text>
+      </Link>
+
+      <Link href={'/rede-social'}>
+        <Text>Ir para Redes Sociais</Text>
+      </Link>
+
       <Button title="Ir para exemplo2"
         onPress={irParaExemplo} />
     </View>
